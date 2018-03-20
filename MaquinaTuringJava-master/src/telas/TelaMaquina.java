@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import regras.RegrasAutonomos;
-
+//
 /**
  *
  * @author Andre
